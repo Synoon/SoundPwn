@@ -11,4 +11,4 @@ Rules:
 3) Close this Tab now :D thx. 
 
 
-(PS. Code is realy uggly couse this is just an dirty poc for a future app.)
+(PS. Code is realy ugly couse this is just an dirty poc for a future app.)
